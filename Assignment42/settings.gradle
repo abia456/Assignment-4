@@ -1,0 +1,5 @@
+rootProject.name='Assignment4.2'
+include ':HomeScreen'
+include ':RoomDatabase'
+include ':Location_Module'
+include ':ScreenTime'

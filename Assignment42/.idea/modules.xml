@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Assignment4.2.iml" filepath="$PROJECT_DIR$/.idea/modules/Assignment4.2.iml" group="Assignment4.2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HomeScreen.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HomeScreen.iml" group="Assignment4.2/HomeScreen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Location_Module/Location_Module.iml" filepath="$PROJECT_DIR$/.idea/modules/Location_Module/Location_Module.iml" group="Assignment4.2/Location_Module" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RoomDatabase/RoomDatabase.iml" filepath="$PROJECT_DIR$/.idea/modules/RoomDatabase/RoomDatabase.iml" group="Assignment4.2/RoomDatabase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScreenTime/ScreenTime.iml" filepath="$PROJECT_DIR$/.idea/modules/ScreenTime/ScreenTime.iml" group="Assignment4.2/ScreenTime" />
+    </modules>
+  </component>
+</project>

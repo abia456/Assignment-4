@@ -1,0 +1,4 @@
+#Mon Nov 18 03:19:59 PST 2019
+base.0=D\:\\Assignment42\\HomeScreen\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
